@@ -1,0 +1,1 @@
+docker build -t zoolofbears/cpp_arm_builder:latest "$(pwd)" && docker push zoolofbears/cpp_arm_builder:latest
